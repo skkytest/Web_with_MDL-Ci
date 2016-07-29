@@ -22,7 +22,7 @@ For now this project use version 1.1.3.
 
 You can find its official website [here](https://getmdl.io/).
 
-Material Design Lite lets you add a Material Design look and feel to your websites. It doesn’t rely on any JavaScript frameworks and aims to optimize for cross-device use, gracefully degrade in older browsers, and offer an experience that is immediately accessible.
+**Material Design Lite lets you add a Material Design look and feel to your websites. It doesn’t rely on any JavaScript frameworks and aims to optimize for cross-device use, gracefully degrade in older browsers, and offer an experience that is immediately accessible.**
 
 
-Because when I start this project I was physically in China, and I failed to access hosted files on their CDN, which use google server. So I downloaded everything I need, incluing more than 300 Megabites Icon files. In header files, I use local url link.
+Because when I start this project I was physically in China, and I failed to access hosted files on their CDN, which use google server. So I downloaded everything I need, including more than 300 Megabites Icon files. In header files, I use local url link.
