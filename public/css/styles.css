@@ -1,0 +1,48 @@
+h1 {text-align: center;}
+body {background-color: aqua;}
+
+ul, li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+}
+ul{
+	height: 2em;
+	width: 100%;
+}
+ul.top{
+	position: relative;
+}
+
+li a{
+	display: block;
+	line-height: 2em;
+	padding: 0 1em;
+	text-decoration: none;
+}
+ul.sub li a:hover{
+	background-color: yellow;
+	position: relative;
+}
+
+ul.sub {
+	float:none;
+	width: auto;
+	height:auto;
+	position: absolute;
+	background-color: white;
+	left: -9000em;
+	top: 2em;
+}
+ul.sub li{
+	float:none;
+}
+.top:hover {
+	height: 4em;
+	font-size: 120%;
+}
+.top:hover > .sub {
+	left: 0;
+}
+
