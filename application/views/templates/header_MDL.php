@@ -68,9 +68,3 @@
         </style>
     </head>
     <body>
-    	<header>
-    		<h1>My Vocabulary</h1>
-    		<br />
-			
-    	</header>
-        

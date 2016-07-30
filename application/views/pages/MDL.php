@@ -1,3 +1,9 @@
+<header>
+    <h1>My Vocabulary</h1>
+    <br />
+			
+</header>
+
 <div id="main">
 	<div class="navigation">
 		<ul class="demo-list-icon mdl-list">
